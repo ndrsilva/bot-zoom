@@ -1,0 +1,11 @@
+2023-09-06 11:24:39,154:-:src.services.zoom_services.TasksZoomService:-:INFO:-:64:-:Opening the Zoom.
+2023-09-06 11:24:39,753:-:src.services.zoom_services.TasksZoomService:-:INFO:-:117:-:Successfully connected to main window.
+2023-09-06 11:24:40,323:-:src.services.zoom_services.TasksZoomService:-:INFO:-:177:-:Click 'Sign in' button
+2023-09-06 11:24:41,409:-:src.services.zoom_services.TasksZoomService:-:INFO:-:232:-:
+2023-09-06 11:24:44,497:-:src.services.zoom_services.TasksZoomService:-:INFO:-:252:-:
+2023-09-06 11:24:46,978:-:src.services.zoom_services.TasksZoomService:-:INFO:-:260:-:
+2023-09-06 11:24:47,668:-:src.services.zoom_services.TasksZoomService:-:INFO:-:289:-:
+2023-09-06 11:24:50,756:-:src.services.zoom_services.TasksZoomService:-:INFO:-:309:-:
+2023-09-06 11:24:52,146:-:src.services.zoom_services.TasksZoomService:-:INFO:-:317:-:
+2023-09-06 11:24:52,725:-:src.services.zoom_services.TasksZoomService:-:INFO:-:177:-:Click 'Sign in' button
+2023-09-06 11:24:52,725:-:src.services.zoom_services.ZoomService:-:INFO:-:35:-:
