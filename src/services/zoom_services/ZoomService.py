@@ -19,18 +19,18 @@ class ZoomService:
         )
 
         self.log = logger.getLogger(__name__)
-        self.zoom_service = TasksZoomService()
+        self.tasks_zoom_service = TasksZoomService()
 
     def login(self, email: str, password: str) -> None:
         """..."""
 
-        self.zoom_service.start()
-        dlg = self.zoom_service.connect()
+        self.tasks_zoom_service.start()
+        dlg = self.tasks_zoom_service.connect()
 
-        self.zoom_service.click_sign_in(dlg)
-        self.zoom_service.insert_email(dlg, email)
-        self.zoom_service.insert_password(dlg, password)
-        self.zoom_service.click_sign_in(dlg)
+        self.tasks_zoom_service.click_sign_in(dlg)
+        self.tasks_zoom_service.insert_email(dlg, email)
+        self.tasks_zoom_service.insert_password(dlg, password)
+        self.tasks_zoom_service.click_sign_in(dlg)
 
         self.log.info('')  # TODO - Write the message.
 
