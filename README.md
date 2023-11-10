@@ -1,4 +1,4 @@
-# Bot para o Zoom - Bot for Zoom.  -  *Em desenvolvimento*
+# Bot para o Zoom - Bot for Zoom. *Em desenvolvimento*
 
 ## Introdução -  Introduction.
 
